@@ -1,4 +1,4 @@
-# Python-package-for-Gausian-and-polynomial-Distribution-
+# Python-package-for-Gausian-and-Binomial-Distribution-
 This Python Package will
   1) Read data from text files
   2) Calculate mean and standard deviation
